@@ -200,15 +200,3 @@ git push origin feature-branch
 This project is licensed under the **MIT License**.
 
 ---
-
-### ⚡ Need a Postman Collection?
-
-If you want, I can generate a ready-to-import **Postman collection JSON**
-with all the API requests set up for easy testing.
-
-Would you like me to create it?
-Just type: **“Yes, please make the Postman collection!”** 🚀
-
----
-
-Let me know if you want a `CONTRIBUTORS.md`, Docker setup, or Swagger file too!
